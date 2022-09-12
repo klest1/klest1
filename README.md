@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 ---
-**Klesti8701/Klesti8701** 
+**klesti fetiu external@hamburgsud** 
+**personal account Klesti8701**
 
-- 🔭☁ I’m currently working on LHIND
+- 🔭☁ I’m currently working on LHIND as DevOps
 - 🌱🛸🏴‍☠️ I’m currently learning RedTeaming & DevSecOps
 - 🤵 I’m looking to improve my self  
 - 🤔 I’m looking for people with good atitudes 
